@@ -1,0 +1,11 @@
+2018-08-02 20:43:43 - root - run.py - run - INFO - ********TEST START********
+2018-08-02 20:43:43 - root - log.py - build_case_line - INFO - login_ok- json:{'code': '200', 'message': ''}
+2018-08-02 20:43:43 - root - log.py - build_case_line - INFO - login_error1- json:{'code': '100', 'message': 'Username or password error.'}
+2018-08-02 20:43:46 - root - log.py - build_case_line - INFO - getlog1- json:{'code': '200', 'message': ''}
+2018-08-02 20:43:46 - root - log.py - build_case_line - INFO - getlog2- json:{'code': '200', 'message': ''}
+2018-08-02 20:43:46 - root - log.py - build_case_line - INFO - getcurtask_all- json:{'code': '200', 'message': ''}
+2018-08-02 20:43:46 - root - log.py - build_case_line - INFO - getcurtask_waitting- json:{'code': '200', 'message': ''}
+2018-08-02 20:43:46 - root - log.py - build_case_line - INFO - gethistask_all- json:{'code': '200', 'message': ''}
+2018-08-02 20:43:46 - root - log.py - build_case_line - INFO - operatetask_delete- json:{'code': '200', 'message': 'Success'}
+2018-08-02 20:43:46 - root - log.py - build_case_line - INFO - logout_ok- json:{'code': '200', 'message': 'Logout success.'}
+2018-08-02 20:43:46 - root - run.py - run - INFO - *********TEST END*********

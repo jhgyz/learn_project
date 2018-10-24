@@ -1,0 +1,7 @@
+/testLogin
+/getSysLog
+/getCurTask
+/getHisTask
+/operateTask
+/testLogout
+

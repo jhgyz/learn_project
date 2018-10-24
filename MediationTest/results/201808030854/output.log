@@ -1,0 +1,2 @@
+2018-08-03 08:54:05 - root - log.py - build_case_line - INFO - login_ok- json:{'code': '200', 'message': ''}
+2018-08-03 08:54:05 - root - log.py - build_case_line - INFO - login_error1- json:{'code': '100', 'message': 'Username or password error.'}
