@@ -10,6 +10,7 @@ from public.my_http import Http
 login_xls = getData.get_xls("mediationCase.xlsx", "login")
 rc = readConfig.ReadConfig("config.ini")
 http = Http()
+print("tessting+++++")
 
 
 @paramunittest.parametrized(*login_xls)
